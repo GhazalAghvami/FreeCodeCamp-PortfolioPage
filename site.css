@@ -1,0 +1,73 @@
+#body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+  background-color: white !important;
+}
+
+#brand {
+  margin: 20px;
+}
+
+#links {
+  margin-top: 10px;
+  margin-right: 50px;
+}
+
+#about {
+  margin-top: 60px;
+  position: relative;
+  background: url(http://eskipaper.com/images/san-francisco-wallpaper-9.jpg) no-repeat center center;
+  background-size: cover;
+  height: 855px;
+  width: 100%;
+}
+
+#about h3 {
+  margin-top: 80px;
+  margin-left: 550px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#summary {
+  margin-left: 550px;
+  font-size: 18px;
+}
+
+#projects {
+  height: 855px;
+  width: 100%;
+  background: url("http://mindblowingtrip.com/wp-content/uploads/2016/01/Toronto.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+#projects h3 {
+  margin-top: 80px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#contact {
+  height: 855px;
+  width: 100%;
+  background: url("http://www.masinka.net/wp/wp-content/uploads/2013/07/Tehran.Azadi_.Tower_.Gerald.Rossbacher.masinka.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+#contact h3 {
+  color: white;
+  padding-top: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#petpal {
+  margin: 100px;
+}
+
+#libation {
+  margin-left: 530px;
+}
